@@ -1,4 +1,4 @@
-获取合租趣数据添加到临时表中
+﻿获取合租趣数据添加到临时表中
 https://www.suitius.com/spider/web/getDataFromHezuquWeb.php
 将合租趣临时表中的数据导入suit表中
 https://www.suitius.com/spider/suit/selectHezuquDataToSuit.php
@@ -11,3 +11,5 @@ https://www.suitius.com/spider/suit/selectNuanDataToSuit.php
 
 excel表格
 https://www.suitius.com/spider/excel.php
+
+哈哈哈
